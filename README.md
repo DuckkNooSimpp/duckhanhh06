@@ -26,7 +26,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30"/>
   </a>&nbsp;&nbsp;
   <a href="https://locket.cam/duckhanhh06" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locket_Logo.png/600px-Locket_Logo.png" alt="Locket" width="30"/>
+    <img src="[https://cdn.tgdd.vn/2023/08/GameApp/logo-200x200--1--200x200-3.png]()" alt="Locket" width="30"/>
   </a>
 </p>
 
