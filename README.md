@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/155d2123-a859-4829-ba3e-a9f62b62c062)<h1 align="center"> Nguyễn Đức Khánh</h1>
+<h1 align="center"> Nguyễn Đức Khánh</h1>
 <h3 align="center"> <i>Ngồi nhà ăn bám =))</i></h3>
 
 <p align="center">
