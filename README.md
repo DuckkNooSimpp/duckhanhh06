@@ -51,5 +51,5 @@
 ### ✨ Bonus Background (GIF ngầu ngầu)
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)" width="100%" />
+  <img src="[[https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif))" width="100%" />
 </p>
