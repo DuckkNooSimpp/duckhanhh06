@@ -32,24 +32,4 @@
 
 ---
 
-### 🧨 Profile Vibe
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Eat+%F0%9F%8D%96+Sleep+%F0%9F%92%A4+Code+%F0%9F%92%BB+Repeat;Ngồi+nhà+nhưng+vẫn+đỉnh+cao;Follow+đi+rồi+không+hối+hận" alt="Typing SVG" />
-</p>
-
----
-
-### 🐍 GitHub Snake Game (con rắn bò qua contribution chart)
-
-<p align="center">
-  <img src="https://github.com/duckhanhh06/duckhanhh06/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### ✨ Bonus Background (GIF ngầu ngầu)
-
-<p align="center">
-  <img src="[[https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif))" width="100%" />
-</p>
