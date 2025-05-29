@@ -1,4 +1,4 @@
-<h1 align="center"> Nguyễn Đức Khánh</h1>
+![image](https://github.com/user-attachments/assets/155d2123-a859-4829-ba3e-a9f62b62c062)<h1 align="center"> Nguyễn Đức Khánh</h1>
 <h3 align="center"> <i>Ngồi nhà ăn bám =))</i></h3>
 
 <p align="center">
@@ -51,5 +51,5 @@
 ### ✨ Bonus Background (GIF ngầu ngầu)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" />
+  <img src="[https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif](https://no-cdn.shortpixel.ai/client/to_avif,q_lossy,ret_wait/https://shortpixel.com/blog/wp-content/uploads/2023/12/nyan-cat.gif)" width="100%" />
 </p>
