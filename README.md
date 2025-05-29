@@ -1,5 +1,5 @@
-<h1 align="center">🧠 Nguyễn Đức Khánh</h1>
-<h3 align="center">😎 Title: <i>Ngồi nhà ăn bám =))</i></h3>
+<h1 align="center"> Nguyễn Đức Khánh</h1>
+<h3 align="center"> <i>Ngồi nhà ăn bám =))</i></h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
