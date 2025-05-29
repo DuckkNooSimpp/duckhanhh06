@@ -1,57 +1,55 @@
-<h1 align="center">Hi 👋, I'm [Nguyễn Đức Khánh </h1>
-<h3 align="center">🚀 A passionate [Frontend/Backend/Fullstack] developer from 🇻🇳 Vietnam</h3>
+<h1 align="center">🧠 Nguyễn Đức Khánh</h1>
+<h3 align="center">😎 Title: <i>Ngồi nhà ăn bám =))</i></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Code+Eat+Sleep+Repeat;Build+%F0%9F%9A%80+Awesome+Projects;Sharing+Dev+Love+%F0%9F%92%96" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
 ---
 
-### 🔥 About Me
-- 💻 I’m currently working on: `Awesome Project Name`  
-- 🌱 I’m currently learning: `Your Learning Topics (e.g., Rust, Next.js, Machine Learning)`  
-- 🧠 Always exploring: `New tech, dev tools, and clean code practices`  
-- 👨‍💻 All of my projects are available at: [your-portfolio.com](https://your-portfolio.com)  
-- 📫 How to reach me: `your@email.com`  
-- 🧘 Fun fact: I love coding at night with lo-fi music 🎧  
+### 👨‍💻 About Me
+
+- 💻 Lập trình trong giấc mơ, ngủ dậy commit luôn!
+- 😴 Cấp độ "lười": max level
+- 📍 Vị trí: Nhà (không rời khỏi giường)
+- 🔥 Status: Ăn bám nhưng đẹp trai và có não 🤓
 
 ---
 
-### 🛠️ Languages & Tools
+### 📱 My Info
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,django,mongodb,postgresql,docker,git,github,vscode,figma&perline=8" />
+  <a href="https://facebook.com/duckhanhh06" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/duckhanhh06" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://locket.cam/duckhanhh06" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Locket_Logo.png/600px-Locket_Logo.png" alt="Locket" width="30"/>
+  </a>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🧨 Profile Vibe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Eat+%F0%9F%8D%96+Sleep+%F0%9F%92%A4+Code+%F0%9F%92%BB+Repeat;Ngồi+nhà+nhưng+vẫn+đỉnh+cao;Follow+đi+rồi+không+hối+hận" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🧠 Top Repositories
-
-[![Awesome Project](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=awesome-repo&theme=tokyonight)](https://github.com/your-username/awesome-repo)  
-[![Another Cool Project](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=cool-repo&theme=tokyonight)](https://github.com/your-username/cool-repo)
-
----
-
-### 🤝 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
-  <a href="https://fb.com/your-facebook" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/your-instagram" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="30" width="30" /></a>
-</p>
-
----
+### 🐍 GitHub Snake Game (con rắn bò qua contribution chart)
 
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/main/wave.gif" width="200"/>
+  <img src="https://github.com/duckhanhh06/duckhanhh06/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ✨ Bonus Background (GIF ngầu ngầu)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="100%" />
 </p>
